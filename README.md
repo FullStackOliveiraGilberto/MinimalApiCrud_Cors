@@ -1,0 +1,1 @@
+"# MinimalApiCrud_Cors" 
